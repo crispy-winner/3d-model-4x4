@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "libs")(type "KiCad")(uri "/home/delete/projects/crispy-winner/pcb/libs/bp.kicad_sym")(options "")(descr ""))
+)
